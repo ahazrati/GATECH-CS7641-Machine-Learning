@@ -1,15 +1,16 @@
 # CS-7641-Machine-Learning 
 
-### Final Score: A (Letter Grade)**
+### Final Score: 
+    **A (Letter Grade)**
 
 ### Project 1 (Supervised Learning): 
     **100/100** (Average of cohort: 75.9/100)      
 ### Project 2 (Randomized Optimization): 
-**91/100** (Mean of cohort: 73.5/100)    
+    **91/100** (Mean of cohort: 73.5/100)    
 ### Project 3 (Unsupervised Learning and Dimensionality Reduction):
-**100/100** (Average of cohort: 72.8/100)       
+    **100/100** (Average of cohort: 72.8/100)       
 ### Project 4 (Markow Decision Process): 
-**95/100** (Average of cohort: 79.2/100)     
+    **95/100** (Average of cohort: 79.2/100)     
 
 
 Source of Module infomation below:    
