@@ -1,7 +1,7 @@
 # CS-7641-Machine-Learning 
 
 ### Final Score: 
-    **A (Letter Grade)**
+    A (Letter Grade)
 
 ### Project 1 (Supervised Learning): 
     **100/100** (Average of cohort: 75.9/100)      
