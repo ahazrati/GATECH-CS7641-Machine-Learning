@@ -3,7 +3,7 @@
 ### Final Score: A (Letter Grade)**
 
 ### Project 1 (Supervised Learning): 
-**100/100** (Average of cohort: 75.9/100)      
+    **100/100** (Average of cohort: 75.9/100)      
 ### Project 2 (Randomized Optimization): 
 **91/100** (Mean of cohort: 73.5/100)    
 ### Project 3 (Unsupervised Learning and Dimensionality Reduction):
