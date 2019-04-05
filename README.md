@@ -52,6 +52,3 @@ Vivek Nabhi, Teaching Assistant
 Forums and Office Hours
 The Instructors and TAs will primarily use Piazza for answering your questions.
 The TAs will also conduct office hours on Google Hangouts. Subscribe to our channel to find the schedule.
-
-## Academic Honesty
-All Georgia Tech students are expected to uphold the Georgia Tech Academic Honor Code.
