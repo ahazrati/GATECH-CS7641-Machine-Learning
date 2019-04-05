@@ -28,7 +28,7 @@ This is a 3-course Machine Learning Series, taught as a dialogue between Profess
 
 **Reinforcement Learning** Reinforcement Learning is the area of Machine Learning concerned with the actions that software agents ought to take in a particular environment in order to maximize rewards. You can apply Reinforcement Learning to robot control, chess, backgammon, checkers and other activities that a software agent can learn. Reinforcement Learning uses behaviorist psychology in order to achieve reward maximization.   To find more detail about this course, please download the CS 7641 Course Syllabus.
 
-## Prerequisites**
+## Prerequisites
 An introductory course in artificial intelligence is recommended but not required.   To discover whether you are ready to take CS 7641: Machine Learning, please review our Course Preparedness Questions, to determine whether another introductory course may be necessary prior to registration.  
 
 ## Grading
@@ -39,7 +39,7 @@ Required text: Machine Learning, Tom Mitchell, 1997.
 
 **Optional Text**: Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction, MIT Press, 1998.  
 
-*Please see the course syllabus for supplemental reading list and coding resources.
+*Please see the course syllabus for supplemental reading list and coding resources.*
 
 ## Minimum Technical Requirements
 Browser and connection speed: An up-to-date version of Chrome or Firefox is strongly recommended. We also support Internet Explorer 9 and the desktop versions of Internet Explorer 10 and above (not the metro versions). 2+ Mbps recommended; at minimum 0.768 Mbps download speed
